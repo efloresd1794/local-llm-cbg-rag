@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtualenv
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# dotenv
+.env
+.git 
+# VSCode
+.vscode/
+
+# Ignore Chroma DB files
+data/chroma_db/

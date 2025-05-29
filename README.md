@@ -194,10 +194,3 @@ This architecture supports enterprise requirements including high availability, 
 2. **Document Types**: Add parsers in `document_processor.py`
 3. **Evaluation Metrics**: Enhance `evaluation.py` with custom metrics
 4. **UI Components**: Modify `app.py` for new interface elements
-
-## 📈 Performance Benchmarks
-
-- **Document Processing**: ~1000 pages per minute
-- **Query Response Time**: <2 seconds average
-- **Retrieval Accuracy**: >85% relevance score
-- **Memory Usage**: <2GB for 10,000 document chunks
